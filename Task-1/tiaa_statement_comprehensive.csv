@@ -1,0 +1,27 @@
+Category,Field,Value
+Basic Info,Account Holder Name,YU-HSIN WU
+Basic Info,Statement Period Start,"January 1, 2021"
+Basic Info,Statement Period End,"March 31, 2021"
+Portfolio Balance,Beginning Balance,"$460,806.88"
+Portfolio Balance,Ending Balance,"$501,974.66"
+Portfolio Balance,Total Portfolio Balance,"$501,974.66"
+Asset Allocation,Equities Value,"$351,832.90"
+Asset Allocation,Equities Percentage,70.09%
+Asset Allocation,Fixed Income Value,"$59,636.94"
+Asset Allocation,Fixed Income Percentage,11.88%
+Asset Allocation,Multi-Asset Value,"$90,504.82"
+Asset Allocation,Multi-Asset Percentage,18.03%
+Performance,Employee Contributions,"$8,250.02"
+Performance,Employer Contributions,"$7,425.03"
+Performance,Total Gains/Loss,"$25,492.73"
+Performance,Personal Rate of Return,5.45%
+Performance,Average Monthly Contribution,"$3,466.00"
+Performance,Estimated Monthly Income at Retirement,"$8,568.00"
+Vesting,Vesting Status,Delayed vesting provision applies for employer contributions - employer maintains vesting information. 100% vested in voluntary/personal contributions.
+,,
+Plan Details,Plan Number,Plan Type,Balance
+Plan Details,1,RETIREMENT PLAN,"$228,743.55"
+Plan Details,2,VOLUNTARY EMPLOYEE RETIREMENT PLAN,"$182,726.29"
+Plan Details,3,MATCHING PLAN,"$46,554.92"
+Plan Details,4,BASIC PLAN,"$22,187.84"
+Plan Details,5,SUPPLEMENTAL RETIREMENT ANNUITY PLAN,"$21,762.06"
