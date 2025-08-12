@@ -30,8 +30,8 @@ A Python application that extracts key information from TIAA retirement benefit 
 
 2. Create and activate a virtual environment (recommended):
    ```bash
-   python -m venv env
-   .\env\Scripts\activate
+   python3 -m venv env
+   .\env\bin\activate
    ```
 
 3. Install dependencies:
@@ -43,7 +43,7 @@ A Python application that extracts key information from TIAA retirement benefit 
 1. Place your TIAA PDF statement in the Task-1 directory
 2. Run the main script:
    ```bash
-   python main.py
+   python3 main.py
    ```
 3. The extracted data will be saved to CSV and text files in the same directory
 
